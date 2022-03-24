@@ -1,0 +1,9 @@
+db.sqlite3
+media/
+__pycache__/
+db.sqlite3
+venv/
+*.pyc
+*.pot
+*.log
+.idea/
